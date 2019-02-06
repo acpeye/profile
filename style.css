@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  background-image: url("images/stuff.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: .9;
+}
+
+.round_image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.image {
+  width: cover;
+  height: 200px;
+  border-radius: 10px;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+}
+
+h1 {
+  color: #0075A2;
+  font-family: 'Metrophobic', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: #0075A2;
+  text-align: center;
+}
+
+li {
+  color: #0E7C7B
+}
+
+.card {
+  padding: 30px;
+  margin: 100px;
+  background-color:rgba(255, 255, 255, 0.6);
+}
+
+p {
+line-height: 1.5;
+font-size: 20;
+font-family: 'Metrophobic', sans-serif;
+}
